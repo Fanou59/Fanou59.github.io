@@ -21,7 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://fanou59.github.io/Qr-card-component)
+- Live Site URL: [https://fanou59.github.io/Qr-card-component]
 
 ## My process
 
@@ -36,7 +36,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [Add your name Fanou59]
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@Fanou5910](https://twitter.com/Fanou59150)
+- Frontend Mentor - [@Fanou59]
+- Twitter - [@Fanou59150]
 
