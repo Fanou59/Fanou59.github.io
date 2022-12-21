@@ -1,69 +1,41 @@
 html {
-    height: 100%;
+    background-color: hsl(212, 45%, 89%);
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
 }
 
 body {
-    background-color: hsl(212, 45%, 89%);
-    height: 100%;
     font-family: "Outfit";
-    display: flex;
-    flex-direction: column;
-    align-items: center;
     font-size: 15px;
 
-
-
-
 }
 
-.attribution {
-    font-size: 11px;
-
-}
-
-.attribution a {
-    color: hsl(228, 45%, 44%);
-}
-
-
-.container {
-    display: flex;
-    justify-content: center;
-    height: 100%;
-    align-items: center;
-
-
-}
-
-.main {
-
-    background-color: hsl(0, 0%, 100%);
+main {
     border-radius: 20px;
     font-size: 15px;
-    padding: 25px;
-    width: 375px;
-    height: auto;
+    padding: 16px 16px 40px 16px;
+    max-width: 320px;
+    background-color: hsl(0, 0%, 100%);
+}
 
+h1 {
+    font-size: 1.46rem;
+    text-align: center;
+}
 
+p {
+    letter-spacing: 0.19px;
+    color: #7D889E;
+    text-align: center;
+    padding-left: 32px;
+    padding-right: 32px;
 }
 
 img {
-    max-width: 100%;
+    width: 100%;
     border-radius: 10px;
-}
 
-.main-bold {
-    font-weight: 700;
-    color: hsl(218, 44%, 22%);
-    padding-top: 25px;
-    text-align: center;
-    font-size: 1.8rem;
-}
-
-.main-p {
-    font-weight: 400;
-    padding-top: 20px;
-    color: hsl(220, 15%, 55%);
-    text-align: center;
-    font-size: 1.3rem;
 }
